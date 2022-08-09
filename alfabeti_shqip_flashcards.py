@@ -3,6 +3,7 @@
 
 # %% [markdown]
 # Developed by Alex Sessums
+# August 2022
 
 # %%
 # Import Libraries
@@ -17,7 +18,6 @@ root.geometry("550x410")
 
 # %%
 # Shqip Words
-
 words = [(("Që"), ("That")),
          (("Anije"), ("Ship")), 
          (("Akullore"), ("Ice Cream")), 
